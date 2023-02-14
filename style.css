@@ -1,0 +1,25 @@
+button {
+  position: absolute;
+  display: block;
+  color: rgb(255, 255, 255);
+  background-color: rgba(6, 6, 6, 0.4);
+  border: none;
+  width: 80px;
+  height: 80px;
+  border-radius: 100px;
+}
+
+#buttonLeft {
+  margin-top: -90px;
+  margin-left: 30px;
+}
+
+#buttonRight {
+  margin-top: -90px;
+  margin-left: 160px;
+}
+
+#buttonUp {
+  margin-top: -160px;
+  margin-left: 100px;
+}
